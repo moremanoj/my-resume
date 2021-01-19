@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Manoj More",
+    "occupation":"Software Engineer",
+    "description":"Working at NeoSOFT Technologies as a Lead software engineer (NodeJS) across the range of our products",
+    "image":"profilepic.jpg",
+    "bio":"Throughout my life, I’ve approached every challenge with enthusiasm, creativity, and ceaseless desire to achieve success. This passion and drive have paved the way to countless opportunities, unique experiences and exceptional relationships both personally and professionally.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "moremanoj3006@gmail.com",
+    "phone": "+91-7020-5615-83",
+    "address":{
+      "street":"Hinjewadi,Phase 1",
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411057"
+    },
+    "website": "https://www.symelabs.com",
+    "resumedownload":"https://drive.google.com/file/d/1psK_fdHXtTtHszYGJOeDuz6OkLuXzKHC/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/manoj.more.5458",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/manoj-more-b1957b96/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/1097.manoj/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/15037549/manoj-more",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/moremanoj",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Pune University Computer Science Department, Pune.",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2016",
+        "description":"Here I have completed my Master of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school":"D.Y. Patil ACS college, Pune.",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"may 2012",
+        "description":"I attended the Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I have learned lots of programming languages such as C, C++, Java, Data structure, and much more."
+      }
+    ],
+    "work":[
+      {
+        "company":"NeoSOFT Technologies",
+        "title":"Lead Software Enginner",
+        "years":"Oct-2019 - Present",
+        "description":"Here I'm working as a lead software engineer, I have worked extensively with NodeJS as well as AWS. Environment​: ​JavaScript, NodeJS, Express. Responsibilities: 1) Creating Scalable applications using NodeJS 2) Building reusable services & libraries for future use 3) Optimizing application for maximum performance across a vast array of web-capable API 4) Translating designs and wireframes into high quality code"
+      },
+      {
+        "company":"Eastern Enterprise Pvt.Ltd",
+        "title":"Software Enginner",
+        "years":"July-2018 - Oct-2019",
+        "description":"For most of my time at Eastern Enterprise Pvt.Ltd, I have worked as a Nodejs Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our Microservices. I have worked extensively with NodeJS and Express framework as well as with Loopback."
+      },
+      {
+        "company":"Kenvent Technologies Pvt.Ltd",
+        "title":"Software Enginner",
+        "years":"June-2016 - July-2018",
+        "description":"My very first industrial experience felt like uncharted territory. I learned all the basics of Backend like deployment, CI/CD, SSL, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java Script",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Node Js",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"90%"
+      },
+      {
+      "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Manoj on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Manoj excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Ashish Payal - Senior Software Enginner at Wisen Technology"
+      }
+    ]
+  }
+}
